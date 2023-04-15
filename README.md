@@ -1,4 +1,4 @@
-# hwid-protection
+# HWID Protection (HWID License System)
 Protect your programs with Python HWID System!
 
 # How to use?
